@@ -77,10 +77,10 @@ def session_manager(func):
 
 class IData:
     """
-    Python interface for http://api.idatamedia.org
+    Python interface for http://api.sarus.com
     """
     def __init__(self, api_key=None, session_token=None, verbose=False, raw=False, traceback=False):
-        self.API_URL = "https://api.idatamedia.org/"
+        self.API_URL = "https://api.sarus.com/"
         self.API_KEY = api_key
         self.verbose = verbose
         self.raw = raw
