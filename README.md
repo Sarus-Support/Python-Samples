@@ -1,7 +1,6 @@
 # Monitor+ API Jupyter/Python Projects
 <h1>
 <p align="center">
- <b>***  UNDER CONSTRUCTION  ***</b>
 </p>
  </h1>
 <p align="right">
